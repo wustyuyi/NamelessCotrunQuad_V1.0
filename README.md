@@ -1,12 +1,10 @@
-# NamelessCotrunQuad_V1.0
+﻿# NamelessCotrunQuad_V1.0
 
 无名科创开源飞控公告
-
 无名科创开源飞控群：540707961
 个人博客地址：http://blog.csdn.net/u011992534
 B站教学视频：https://space.bilibili.com/67803559/#/video
-优酷个人站：http://i.youku.com/i/UMTc3OTMyMjM3Ng==/videos?spm=a2hzp.8244740.0.0
-           ID：NamelessCotrun无名小哥（海量视频）
+优酷个人站：http://i.youku.com/i/UMTc3OTMyMjM3Ng==/videos?spm=a2hzp.8244740.0.0  NamelessCotrun无名小哥（海量视频）
 
 感谢您选择了无名科创，对飞控学习而言，国外商业级飞控APM、PX4/Pixhawk、Autoquad等平台不适合初学者入门学习。而国内传统飞控如Crazepony、ANO、Light、INF等随着创始者们相继毕业，工作时间紧，代码缺乏更新（涉密），以及技术支持不及时等，随着飞控整个行业的技术成熟，对从业者的要求越来越高，在国内开源飞控“青黄不接”的当下，我们无名科创团队成立了。无名科创团队从2013年开始投入研究第一代飞控。从最早开始的迷你小四轴，到后来的多旋翼飞行系统。经历了N个版本的改进，无数次的断桨，射桨，炸机。一步步完善，整合出来了目前国内开源最彻底、功能最强大的飞控学习平台。本代码自写率达90%，整个飞控代码清晰明了，程序模块化，封装规范，方便学习与二次开发，由于无名小哥目前仍在校主研项目仍为飞控，可与大家一同交流学习。
  
